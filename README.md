@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Alexandros Morningstar and I'm a cat with internet access (^  ^)~~, from México</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alexandro-morningstar/alexandro-morningstar/master/dist/snake.svg" alt="Snake animation" />
+<img src="https://github.com/alexandro-morningstar/alexandro-morningstar/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
 
 
