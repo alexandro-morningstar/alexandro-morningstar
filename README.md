@@ -44,6 +44,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/alexandro-morningstar/snake.yml/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alexandro-morningstar/alexandro-morningstar/main/dist/snake.svg" alt="Snake animation" />
+
 
 ###
