@@ -44,7 +44,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alexandro-morningstar/alexandro-morningstar/main/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alexandro-morningstar/alexandro-morningstar/master/dist/snake.svg" alt="Snake animation" />
+
 
 
 ###
