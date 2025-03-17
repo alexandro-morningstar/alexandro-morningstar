@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Alexandros Morningstar and I'm a cat with internet access (^  ^)~~, from México</h2>
+
+<h2 align="left">Hi 👋! My name is Alexandros Morningstar and I'm a cat with internet access from México</h2>
+<h3> ／l、
+（ﾟ､ ｡ ７
+⠀ l、ﾞ ~ヽ
+  じしf_, )ノ</h3>
 
 ###
 
