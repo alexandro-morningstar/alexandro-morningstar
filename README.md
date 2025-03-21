@@ -1,5 +1,21 @@
+<!--
+<div style="display: flex; flex-direction:row;">
+  <h2 align="left">Hi 👋! My name is Alexandros Morningstar and I'm a cat with internet access from México </h2>
+  <h2><br>&nbsp;&nbsp;／l、<br>（ﾟ､ ｡ ７<br>&nbsp;&nbsp;&nbsp;l、ﾞ ~ヽ<br>&nbsp;&nbsp;&nbsp;じしf_, )ノ</h2>  
+</div>
+-->
 
-<h2 align="left">Hi 👋! My name is Alexandros Morningstar and I'm a cat with internet access from México </h2>
+<div style="display: flex; align-items: center; flex-">
+  <h2 style="max-width: 300px; margin-right: 20px;">
+    Hi 👋! My name is Alexandros Morningstar and I'm a cat with internet access from México
+  </h2>
+  <pre>
+  ／l、
+ （ﾟ､ ｡ ７
+  l、ﾞ ~ヽ
+  じしf_, )ノ
+  </pre>
+</div>
 
 ###
 
@@ -10,8 +26,7 @@
 
 ###
 
-<h1><br>&nbsp;&nbsp;／l、<br>（ﾟ､ ｡ ７<br>&nbsp;&nbsp;&nbsp;l、ﾞ ~ヽ<br>&nbsp;&nbsp;&nbsp;じしf_, )ノ</h1>
-<!-- <img align="right" height="150" src="https://drive.google.com/uc?export=view&id=1K1lg1EzgBpAT39JApMLFoSEUjg_ZtCWb"  /> -->
+<img align="right" height="150" src="https://drive.google.com/uc?export=view&id=1K1lg1EzgBpAT39JApMLFoSEUjg_ZtCWb"  />
 
 ###
 
