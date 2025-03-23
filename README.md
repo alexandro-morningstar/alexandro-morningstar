@@ -7,14 +7,16 @@
 
 <div style="display: flex; align-items: center; flex-">
   <h2 style="max-width: 300px; margin-right: 20px;">
-    Hi 👋! My name is Alexandros Morningstar and I'm a cat with internet access from México
+    Hi 👋! My name is Alexandros Morningstar and I'm a cat with internet access from México (^ ^)~
   </h2>
+  <!--
   <pre>
   ／l、
  （ﾟ､ ｡ ７
   l、ﾞ ~ヽ
   じしf_, )ノ
   </pre>
+  -->
 </div>
 
 ###
@@ -26,7 +28,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=790b7611pic17bmm8lc7ui6qcx9ij9vxpxgi3njph2dc2rvs&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<!--
 <img align="right" height="150" src="https://drive.google.com/uc?export=view&id=1K1lg1EzgBpAT39JApMLFoSEUjg_ZtCWb"  />
+-->
 
 ###
 
