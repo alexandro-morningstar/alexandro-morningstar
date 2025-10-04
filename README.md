@@ -1,22 +1,7 @@
-<!--
-<div style="display: flex; flex-direction:row;">
-  <h2 align="left">Hi 👋! My name is Alexandros Morningstar and I'm a cat with internet access from México </h2>
-  <h2><br>&nbsp;&nbsp;／l、<br>（ﾟ､ ｡ ７<br>&nbsp;&nbsp;&nbsp;l、ﾞ ~ヽ<br>&nbsp;&nbsp;&nbsp;じしf_, )ノ</h2>  
-</div>
--->
-
-<div style="display: flex; align-items: center; flex-">
+<div style="display: flex; align-items: center; flex">
   <h2 style="max-width: 300px; margin-right: 20px;">
     Hi 👋! My name is Alexandros Morningstar and I'm a cat with internet access from México (^ ^)~
   </h2>
-  <!--
-  <pre>
-  ／l、
- （ﾟ､ ｡ ７
-  l、ﾞ ~ヽ
-  じしf_, )ノ
-  </pre>
-  -->
 </div>
 
 ###
@@ -29,41 +14,24 @@
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=790b7611pic17bmm8lc7ui6qcx9ij9vxpxgi3njph2dc2rvs&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-<!--
-<img align="right" height="150" src="https://drive.google.com/uc?export=view&id=1K1lg1EzgBpAT39JApMLFoSEUjg_ZtCWb"  />
--->
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" height="30" alt=".net logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="sqlserver logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="30" alt="windows logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="30" alt="vs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
 </div>
 
 ###
